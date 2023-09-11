@@ -1,0 +1,332 @@
+.qwertyui-removebg-preview-1-icon {
+  position: absolute;
+  top: 256px;
+  left: 215px;
+  width: 1112px;
+  height: 486px;
+  object-fit: cover;
+  opacity: 0.5;
+}
+.frame-child {
+  position: absolute;
+  top: 21px;
+  left: 1233px;
+  width: 236px;
+  height: 54px;
+  overflow: hidden;
+}
+.screenshot-2023-08-09-132538-1 {
+  position: absolute;
+  top: 8px;
+  left: 21px;
+  width: 208px;
+  height: 78px;
+  object-fit: cover;
+}
+.frame-item,
+.frame-parent {
+  position: absolute;
+  top: 0;
+  overflow: hidden;
+}
+.frame-item {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  left: 21px;
+  width: 202px;
+  height: 75px;
+}
+.frame-parent {
+  left: 0;
+  background-color: var(--color-gray-200);
+  width: 1512px;
+  height: 94px;
+  opacity: 0.7;
+}
+.contact-us,
+.frame-inner,
+.privacy {
+  position: absolute;
+  top: 21px;
+  height: 44px;
+}
+.frame-inner {
+  left: 174px;
+  width: 178px;
+  overflow: hidden;
+}
+.contact-us,
+.privacy {
+  left: 170px;
+  display: flex;
+  font-weight: 600;
+  align-items: center;
+  width: 182px;
+}
+.contact-us {
+  top: 0;
+  left: 0;
+  width: 236px;
+  height: 48px;
+}
+.contact-us-wrapper {
+  position: absolute;
+  top: 21px;
+  left: 623px;
+  width: 265px;
+  height: 55px;
+  overflow: hidden;
+  color: var(--color-whitesmoke);
+}
+.blog {
+  position: absolute;
+  top: 3px;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+  width: 256px;
+  height: 41px;
+}
+.blog-wrapper,
+.frame-group {
+  position: absolute;
+  top: 21px;
+  left: 859px;
+  width: 246px;
+  height: 44px;
+  overflow: hidden;
+}
+.frame-group {
+  top: 888px;
+  left: 0;
+  background-color: var(--color-gray-200);
+  width: 1512px;
+  height: 94px;
+  opacity: 0.5;
+}
+.terms-of-use {
+  position: absolute;
+  top: 0;
+  left: 9px;
+  display: flex;
+  font-weight: 600;
+  align-items: center;
+  width: 212px;
+  height: 42px;
+}
+.terms-of-use-wrapper {
+  position: absolute;
+  top: 911px;
+  left: 352px;
+  width: 200px;
+  height: 42px;
+  overflow: hidden;
+  opacity: 0.5;
+  color: var(--color-whitesmoke);
+}
+.sign-in {
+  position: absolute;
+  top: 17px;
+  left: 206px;
+  display: flex;
+  font-weight: 500;
+  align-items: center;
+  justify-content: center;
+  width: 184px;
+  height: 49px;
+}
+.create-account,
+.sign-in-wrapper {
+  position: absolute;
+  text-align: center;
+}
+.sign-in-wrapper {
+  top: 288px;
+  left: 458px;
+  width: 596px;
+  height: 83px;
+  overflow: hidden;
+  color: var(--color-gray-400);
+}
+.create-account {
+  top: 0;
+  left: 15px;
+  font-size: var(--font-size-11xl);
+  display: flex;
+  font-weight: 600;
+  color: var(--color-white);
+  align-items: center;
+  justify-content: center;
+  width: 590px;
+  height: 93px;
+}
+.frame-div {
+  top: 114px;
+  left: 102px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  backdrop-filter: blur(4px);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.enter-username,
+.enter-username-wrapper,
+.frame-div {
+  position: absolute;
+  width: 416px;
+  height: 35px;
+}
+.enter-username {
+  top: 0;
+  left: 3px;
+  display: flex;
+  font-weight: 600;
+  align-items: center;
+}
+.enter-username-wrapper {
+  top: 184px;
+  left: 102px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  backdrop-filter: blur(4px);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.enter-password {
+  top: 0;
+  left: 0;
+  display: flex;
+  font-weight: 600;
+  align-items: center;
+}
+.enter-email-id,
+.enter-password,
+.enter-password-wrapper {
+  position: absolute;
+  width: 416px;
+  height: 35px;
+}
+.enter-password-wrapper {
+  top: 244px;
+  left: 102px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  backdrop-filter: blur(4px);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.enter-email-id {
+  top: 114px;
+  left: 105px;
+  display: flex;
+  font-weight: 600;
+  align-items: center;
+}
+.confirm-password-wrapper {
+  position: absolute;
+  top: 309px;
+  left: 102px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  backdrop-filter: blur(4px);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 416px;
+  height: 35px;
+  overflow: hidden;
+}
+.line-icon,
+.or {
+  position: absolute;
+}
+.or {
+  top: 355px;
+  left: 198px;
+  font-size: var(--font-size-11xl);
+  display: flex;
+  font-weight: 600;
+  color: var(--color-white);
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  width: 139px;
+  height: 79px;
+}
+.line-icon {
+  top: 432.5px;
+  left: 29.99px;
+  width: 561.51px;
+  height: 5px;
+}
+.icon-google,
+.icon-linkedin-original {
+  position: absolute;
+  height: 16.64%;
+  width: 18.42%;
+  top: 66.72%;
+  right: 27.14%;
+  bottom: 16.64%;
+  left: 54.44%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon-google {
+  right: 56.7%;
+  left: 24.88%;
+}
+.continue {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 609px;
+  left: 212px;
+  font-size: var(--font-size-11xl);
+  display: flex;
+  font-style: italic;
+  font-weight: 600;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  width: 196px;
+  height: 41px;
+  mix-blend-mode: normal;
+}
+.create-account-parent,
+.macbook-pro-14-5 {
+  border-radius: var(--br-11xl);
+  box-sizing: border-box;
+  overflow: hidden;
+  opacity: 0.8;
+}
+.create-account-parent {
+  position: absolute;
+  top: 148px;
+  left: 446px;
+  background-color: var(--color-gray-200);
+  border: 1px solid #828282;
+  width: 619px;
+  height: 685px;
+  font-size: var(--font-size-6xl);
+  color: var(--color-gray-300);
+}
+.macbook-pro-14-5 {
+  position: relative;
+  background-color: var(--color-black);
+  border: 1px solid var(--color-white);
+  width: 100%;
+  height: 982px;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
